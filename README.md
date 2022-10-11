@@ -21,6 +21,16 @@
 | Status | Done |
 | Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/project0 |
 
+### Assignment #2
+
+| Name | Value |
+| :--- | :--- |
+| Name | Game Project |
+| Description | TicTacToe Game |
+| Due Date | 10-12-22 |
+| Status | In Progress |
+| Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/TicTacToe |
+
 ## References
 
 1. [How to turn in assignments on GitHub](https://docs.google.com/document/d/16mixtVA-dePbWidBzI3JXNW4kFhRyT7XsJgL6GtGvGA/edit?usp=sharing)
