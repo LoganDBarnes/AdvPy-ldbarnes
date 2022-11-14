@@ -5,9 +5,9 @@
 | Name | Test Drive |
 |:---|:---|
 | Difficulty | 1.9 |
-| Status | In Progress |
+| Status | Accepted |
 | Kattis Link | https://open.kattis.com/problems/testdrive |
-| Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject/testDrive.py |
+| Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject/TestDrive/testDrive.py |
 
 ## Kattis Problem 2
 
