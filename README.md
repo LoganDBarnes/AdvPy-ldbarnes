@@ -28,8 +28,18 @@
 | Name | Game Project |
 | Description | TicTacToe Game |
 | Due Date | 10-12-22 |
-| Status | In Progress |
+| Status | In Progress - Graded |
 | Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/TicTacToe |
+
+### Assignment #3
+
+| Name | Value |
+| :--- | :--- |
+| Name | Kattis Project |
+| Description | Solutions for several Kattis problems |
+| Due Date | 11-15-22 |
+| Status | In Progress |
+| Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject |
 
 ## References
 
