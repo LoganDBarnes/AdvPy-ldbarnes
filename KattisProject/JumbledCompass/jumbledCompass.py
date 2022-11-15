@@ -4,10 +4,7 @@
 start = int(input())
 end = int(input())
 
-if start == end:
-    print("0")
-
-elif start < end:
+def startGreater():
     clockwise = (end - start)
     counterClock = ((360 - end) + start)
 
@@ -16,7 +13,9 @@ elif start < end:
     else:
         print(-counterClock)
 
-elif start > end:
+    pass
+
+def endGreater():
     counterClock = (start - end)
     clockwise = ((360 - start) + end)
 
@@ -25,5 +24,22 @@ elif start > end:
     else:
         print(clockwise)
 
-else:
-    print("You're off the edge of the map, mate.")
+    pass
+
+def compass():
+
+    if start == end:
+        print("0")
+
+    elif start < end:
+        startGreater()
+
+    elif start > end:
+        endGreater()
+
+    else:
+        print("You're off the edge of the map, mate.")
+
+    return 0
+
+compass()
