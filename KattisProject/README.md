@@ -11,12 +11,12 @@
 
 ## Kattis Problem 2
 
-| Name |  |
+| Name | Overdraft |
 |:---|:---|
 | Difficulty | 1.9 |
-| Status | In Progress |
-| Kattis Link |  |
-| Solution Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject/ |
+| Status | Accepted |
+| Kattis Link | https://open.kattis.com/problems/overdraft |
+| Solution Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject/Overdraft/overdraft.py |
 
 ## Kattis Problem 3
 
