@@ -1,5 +1,7 @@
 # P3 - Kattis Project
 
+| Self Grade | 70% - 4 problems difficulty 1.9 complete with correct deliverables, but no unit testing. |
+
 ## Kattis Problem 1
 
 | Name | Test Drive |
