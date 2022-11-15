@@ -4,21 +4,28 @@
 # Initialize list
 ledger = []
 
-# Read data
-numtrans = int(input())
+def readInput():
 
-for i in range(numtrans):
-    trans = int(input())
-    ledger.append(trans)
+    numtrans = int(input())
 
-print(ledger)
+    for i in range(numtrans):
+        trans = int(input())
+        ledger.append(trans)
+    pass
 
-total = 0
-minimum = 0
+def calcBudget():
 
-for t in range(numtrans):
-    total += ledger[t]
-    print("total: " + str(total))
-    minimum = min(total, minimum)
-    print("minimum: " + str(minimum))
-print(abs(minimum))
+    total = 0
+    minimum = 0
+
+    for t in range(len(ledger)):
+        total += ledger[t]
+        #print("total: " + str(total))
+        minimum = min(total, minimum)
+        #print("minimum: " + str(minimum))
+    print(abs(minimum))
+    return 0
+
+readInput()
+#print(ledger)
+calcBudget()
