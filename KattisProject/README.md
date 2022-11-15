@@ -29,12 +29,12 @@
 
 ## Kattis Problem 4
 
-| Name |  |
+| Name | Statistics |
 |:---|:---|
 | Difficulty | 1.9 |
-| Status | In Progress |
-| Kattis Link |  |
-| Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject/ |
+| Status | Nearly complete, not accepted |
+| Kattis Link | https://open.kattis.com/problems/statistics |
+| Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject/Statistics/statistics.py |
 
 ## References
 
