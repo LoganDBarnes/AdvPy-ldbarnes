@@ -1,7 +1,5 @@
 # P3 - Kattis Project
 
-| Self Grade | 70% - 4 problems difficulty 1.9 complete with correct deliverables, but no unit testing. |
-
 ## Kattis Problem 1
 
 | Name | Test Drive |
@@ -46,6 +44,8 @@
 | Status | Nearly complete, not accepted |
 | Kattis Link | https://open.kattis.com/problems/statistics |
 | Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject/Statistics/statistics.py |
+
+Self Grade:  70% - 4 problems difficulty 1.9 complete with correct deliverables, but no unit testing.
 
 ## References
 
