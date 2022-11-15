@@ -16,16 +16,16 @@
 | Difficulty | 1.9 |
 | Status | Accepted |
 | Kattis Link | https://open.kattis.com/problems/overdraft |
-| Solution Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject/Overdraft/overdraft.py |
+| Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject/Overdraft/overdraft.py |
 
 ## Kattis Problem 3
 
-| Name |  |
+| Name | Ahhh! |
 |:---|:---|
 | Difficulty | 1.9 |
-| Status | In Progress |
-| Kattis Link |  |
-| Solution Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject/ |
+| Status | Accepted |
+| Kattis Link | https://open.kattis.com/problems/aaah |
+| Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject/Ahhh/ahhh.py |
 
 ## Kattis Problem 4
 
@@ -34,7 +34,7 @@
 | Difficulty | 1.9 |
 | Status | In Progress |
 | Kattis Link |  |
-| Solution Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject/ |
+| Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject/ |
 
 ## References
 
