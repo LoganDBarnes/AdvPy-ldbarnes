@@ -38,7 +38,8 @@
 | Name | Kattis Project |
 | Description | Solutions for several Kattis problems |
 | Due Date | 11-15-22 |
-| Status | In Progress |
+| Status | Problems Accepted |
+| Self Grade | 70% - 4 problems difficulty 1.9 complete with correct deliverables, but no unit testing. |
 | Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject |
 
 ## References

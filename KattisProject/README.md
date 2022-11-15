@@ -29,6 +29,15 @@
 
 ## Kattis Problem 4
 
+| Name | Jumbled Compass |
+|:---|:---|
+| Difficulty | 1.9 |
+| Status | Accepted |
+| Kattis Link | https://open.kattis.com/problems/compass |
+| Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject/JumbledCompass/jumbledCompass.py |
+
+## Kattis Problem 5
+
 | Name | Statistics |
 |:---|:---|
 | Difficulty | 1.9 |
