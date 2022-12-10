@@ -42,9 +42,21 @@
 | Self Grade | 70% - 4 problems difficulty 1.9 complete with correct deliverables, but no unit testing. |
 | Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/KattisProject |
 
+### Assignment #4
+
+| Name | Value |
+| :--- | :--- |
+| Name | Final Project |
+| Description | More Kattis problems |
+| Due Date | 12-13-22 |
+| Status | In Progress |
+| Self Grade | % |
+| Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/Final |
+
 ## References
 
 1. [How to turn in assignments on GitHub](https://docs.google.com/document/d/16mixtVA-dePbWidBzI3JXNW4kFhRyT7XsJgL6GtGvGA/edit?usp=sharing)
 2. [Git Started](https://docs.google.com/document/d/1M0YeBfFPy5YPpfX7312R9-IldjagimvEma_YhgeLPcw/edit#heading=h.ssqvh5gmotj4)
 3. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-4. [Example Repository](https://github.com/rambasnet/csci000-astudent)
+4. [Example Repository](https://github.com/rambasnet/Kattis-Demos-Testing)
+5. [Python Fundamentals](https://github.com/rambasnet/Python-Fundamentals)
