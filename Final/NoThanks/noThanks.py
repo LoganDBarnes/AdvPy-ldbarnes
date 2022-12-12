@@ -15,24 +15,23 @@ def readCards():
     pass
 
 def sortCards():
-    # Sort cards in reverse order
-    cards.sort(reverse = True)
+    cards.sort()
     pass
 
 def calcScore():
-    # Iterate through cards
-    # For any cards that are sequential, only add the first card in the sequence to the score
-    # Add any cards that are not sequential to the score
+    # Iterate through cards, starting at the second card
+    # If the current card is 1 greater than the previous card, don't add it to the score
+    # Else, add it to the score
 
-    score = 0
-    i = 0
+    score = cards[0]
+    prevCard = cards[0]
 
-    while i < len(cards):
-        if i + 1 < len(cards) and cards[i] - 1 == cards[i + 1]:
-            i += 2 # Skip the next card
+    for i in range(1, len(cards)):
+        if cards[i] == prevCard + 1:
+            prevCard = cards[i]
         else:
-            score += cards[i] # Count the current card
-            i += 1
+            score += cards[i]
+        prevCard = cards[i]
 
     return score
 
@@ -40,7 +39,7 @@ def main():
 
     readCards()
     sortCards()
-    print(cards)
+    #print(cards)
     print(calcScore())
 
     return 0

@@ -13,8 +13,8 @@
 
 | Name | No Thanks |
 |:---|:---|
-| Difficulty | 2.1 |
-| Status | In Progress |
+| Difficulty | 2.2 |
+| Status | Solution Accepted |
 | Kattis Link | https://open.kattis.com/problems/nothanks |
 | Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/Final/NoThanks |
 
