@@ -9,9 +9,7 @@
 # Output Yes if car must yield right of way, No if car has right of way
 
 
-carEnter, carLeave, vehicleApproach = input().split()
-
-def goingStraight():
+def goingStraight(carEnter, carLeave):
     straight = False
 
     if carEnter == 'North' and carLeave == 'South':
@@ -26,7 +24,7 @@ def goingStraight():
     #print("going straight " + str(straight))
     return straight
 
-def turningLeft():
+def turningLeft(carEnter, carLeave):
     left = False
 
     if carEnter == 'North' and carLeave == 'East':
@@ -41,7 +39,7 @@ def turningLeft():
     #print("turning left " + str(left))
     return left
 
-def vehicleAhead():
+def vehicleAhead(carEnter, vehicleApproach):
     ahead = False
 
     if carEnter == 'North' and vehicleApproach == 'South':
@@ -56,7 +54,7 @@ def vehicleAhead():
     #print("vehicle ahead " + str(ahead))
     return ahead
 
-def vehicleRight():
+def vehicleRight(carEnter, vehicleApproach):
     right = False
 
     if carEnter == 'North' and vehicleApproach == 'West':
@@ -72,13 +70,15 @@ def vehicleRight():
     return right
 
 def main():
+
+        carEnter, carLeave, vehicleApproach = input().split()
     
-        if goingStraight() and vehicleRight():
-            print('Yes')
-        elif turningLeft() and (vehicleRight() or vehicleAhead()):
-            print('Yes')
+        if goingStraight(carEnter, carLeave) and vehicleRight(carEnter, vehicleApproach):
+            print("Yes")
+        elif turningLeft(carEnter, carLeave) and (vehicleRight(carEnter, vehicleApproach) or vehicleAhead(carEnter, vehicleApproach)):
+            print("Yes")
         else:
-            print('No')
+            print("No")
     
         return 0
 

@@ -23,7 +23,7 @@
 | Name | Right of Way |
 |:---|:---|
 | Difficulty | 2.1 |
-| Status | Solution Accepted |
+| Status | Solution Accepted and Tests Passed |
 | Kattis Link | https://open.kattis.com/problems/vajningsplikt |
 | Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/Final/RightOfWay |
 
