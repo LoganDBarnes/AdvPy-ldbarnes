@@ -2,23 +2,20 @@
 # Kattis
 # No Thanks
 
-numCards = int(input())
+def readCards(cards):
 
-# Initialize cards array
-cards = []
+    numCards = int(input())
 
-def readCards():
     # Read a line from input and store each integer as an element in cards
-
     for e in input().split():
         cards.append(int(e))
     pass
 
-def sortCards():
+def sortCards(cards):
     cards.sort()
     pass
 
-def calcScore():
+def calcScore(cards):
     # Iterate through cards, starting at the second card
     # If the current card is 1 greater than the previous card, don't add it to the score
     # Else, add it to the score
@@ -37,10 +34,13 @@ def calcScore():
 
 def main():
 
-    readCards()
-    sortCards()
+    # Initialize cards array
+    cards = []
+
+    readCards(cards)
+    sortCards(cards)
     #print(cards)
-    print(calcScore())
+    print(calcScore(cards))
 
     return 0
 

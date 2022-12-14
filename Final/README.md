@@ -14,7 +14,7 @@
 | Name | No Thanks |
 |:---|:---|
 | Difficulty | 2.2 |
-| Status | Solution Accepted |
+| Status | Solution Accepted and Tests Passed |
 | Kattis Link | https://open.kattis.com/problems/nothanks |
 | Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/Final/NoThanks |
 
