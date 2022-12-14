@@ -49,8 +49,8 @@
 | Name | Final Project |
 | Description | More Kattis problems |
 | Due Date | 12-13-22 |
-| Status | In Progress |
-| Self Grade | % |
+| Status | Problems Accepted |
+| Self Grade | 70% |
 | Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/Final |
 
 ## References

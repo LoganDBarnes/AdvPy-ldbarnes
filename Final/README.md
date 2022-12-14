@@ -18,6 +18,15 @@
 | Kattis Link | https://open.kattis.com/problems/nothanks |
 | Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/Final/NoThanks |
 
+## Kattis Problem 3
+
+| Name | Right of Way |
+|:---|:---|
+| Difficulty | 2.1 |
+| Status | Solution Accepted |
+| Kattis Link | https://open.kattis.com/problems/vajningsplikt |
+| Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/Final/RightOfWay |
+
 ## References
 
 1. [Example Repository](https://github.com/rambasnet/Kattis-Demos-Testing)
