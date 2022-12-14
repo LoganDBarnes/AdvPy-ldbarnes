@@ -15,7 +15,7 @@ def readRoute(i):
             routes[i].append(e)
     pass
 
-def adventure(i):
+def adventure(i, routes):
     # Iterate though each route
     # If *, $, or |, add to backpack
     # If t, check if last item in backpack is |. If so, remove it, otherwise, print NO.
@@ -32,25 +32,22 @@ def adventure(i):
             if len(backpack) != 0 and backpack[-1] == '|':
                 backpack.pop()
             else:
-                print('NO')
-                return
+                return('NO')
         elif e == 'j':
             if len(backpack) != 0 and backpack[-1] == '*':
                 backpack.pop()
             else:
-                print('NO')
-                return
+                return('NO')
         elif e == 'b':
             if len(backpack) != 0 and backpack[-1] == '$':
                 backpack.pop()
             else:
-                print('NO')
-                return
+                return('NO')
     
     if len(backpack) == 0:
-        print('YES')
+        return('YES')
     else:
-        print('NO')
+        return('NO')
 
 def main():
     # For numRoutes, read input and store in routes
@@ -58,7 +55,7 @@ def main():
 
     for i in range(numRoutes):
         readRoute(i)
-        adventure(i)
+        adventure(i, routes)
     return 0
 
 main()

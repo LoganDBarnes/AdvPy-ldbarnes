@@ -5,7 +5,7 @@
 | Name | Grand Adventure |
 |:---|:---|
 | Difficulty | 2.0 |
-| Status | Solution Accepted |
+| Status | Solution Accepted and Tests Passed |
 | Kattis Link | https://open.kattis.com/problems/thegrandadventure |
 | Location | https://github.com/LoganDBarnes/AdvPy-ldbarnes/tree/main/Final/GrandAdventure |
 
